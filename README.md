@@ -1,7 +1,7 @@
 # ERPNext_Frappe_Docker
 
 ## How to Install:
-docker compose -p my_project -f C:\Data\docker\frappe\pwd.yml up -d <br>
+docker compose -p my_project -f {file_path}pwd.yml up -d <br>
 docker logs myproject-create-site-1
 
 Demo of the Software:
